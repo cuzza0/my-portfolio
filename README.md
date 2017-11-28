@@ -1,2 +1,3 @@
-# my-portfolio
-A serverless portfolio
+# Ben Curran's portfolio
+
+This is my portfolio. It uses AWS and ReactJS
